@@ -1,0 +1,36 @@
+body {
+    margin: 5vw 10vw 0px 10vw;
+    color: black;
+    font-family: elza, sans-serif;
+    font-weight: 400;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+h1 {
+    letter-spacing: -1px;
+    font-weight: normal;
+}
+
+h2 {
+    font-weight: 400;
+    text-align: center;
+}
+
+#view:hover {
+    color:rgb(62, 181, 110);
+    transition: 0.5s;
+}
+
+iframe{
+    text-align: center;
+    width: 100%;
+}
+
+#projectGif {
+    text-align: center;
+    width: 100%;
+}
